@@ -1,5 +1,5 @@
 # 可编程线路通断检测器
-## Programmable line on off Detector
+## Programmable wire break Detector
 本工具主要适用于频繁对多芯线缆及排线进行线路通断与排序检测。最大可测线数为40芯（单端）。如网线、DB9串口线、DB25串口线、IOS数据线等。可根据当前连接方式，通过PC端或手机端（安卓系统）对检测器进行逻辑编程，并保存为检测模板，方便检测器调用。
 <br><br>
 其主要功能：<br>
