@@ -14,8 +14,8 @@
 	<th>位数</th>
   </tr>
   <tr>
-	<td rowspan=9>普通密码</td>
-	<td colspan=3>左</td>
+	<td rowspan=12>普通密码</td>
+	<td colspan=4>左</td>
 	<td>大写字母</td>
 	<td>0-255</td>
   </tr>
@@ -32,7 +32,7 @@
 	<td>0-255</td>
   </tr>
   <tr>
-	<td rowspan=3>中</td>
+	<td rowspan=4>中</td>
 	<td>大写字母</td>
 	<td>0-255</td>
   </tr>
@@ -49,7 +49,7 @@
 	<td>0-255</td>
   </tr>
   <tr>
-	<td rowspan=3>右</td>
+	<td rowspan=4>右</td>
 	<td>大写字母</td>
 	<td>0-255</td>
   </tr>
