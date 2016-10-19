@@ -6,3 +6,73 @@
 1、通过率IO口发出信号，同时，检测其它各IO口的信号状态，若检测到信号，判断其是否与实际情况判断其是否与实际情况相符，若相符，则检测下一条线路，若不符，则判定为线路故障；<br>
 2、……
 
+<table bord=1>
+  <tr>
+	<th>类别</th>
+	<th>位置</th>
+	<th>字符</th>
+	<th>位数</th>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>大写字母</td>
+	<td>0-255</td>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>小写字母</td>
+	<td>0-255</td>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>数字</td>
+	<td>0-255</td>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>特殊字符</td>
+	<td>0-255</td>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>大写字母</td>
+	<td>0-255</td>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>小写字母</td>
+	<td>0-255</td>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>数字</td>
+	<td>0-255</td>
+  </tr>
+  <tr>
+	<td> </td>
+	<td> </td>
+	<td>特殊字符</td>
+	<td>0-255</td>
+  </tr>
+
+
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+	<td>手势密码</td>
+	<td> </td>
+	<td>数字</td>
+	<td>3-9</td>
+  </tr>
+</table>
